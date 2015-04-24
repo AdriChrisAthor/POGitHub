@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package PaqueteChristian;
+package PaqueteAthor;
 
 /**
  *
- * @author christian
+ * @author Athor
  */
-public class Clase1Christian {
-    public void ClaseChristian(){
-        System.out.println("Adios Mundo");
-    }
+public class ClaseAthorX {
     
 }
