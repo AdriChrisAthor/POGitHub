@@ -10,5 +10,8 @@ package PaqueteChristian;
  * @author christian
  */
 public class Clase1Christian {
+    public void ClaseChristian(){
+        System.out.println("Adios Mundo");
+    }
     
 }
